@@ -1,0 +1,18 @@
+body {
+	color: #333;
+	margin: 0;
+	padding: 0;
+	font: 18pt "Tahoma";
+}
+
+#pageSubheading {
+	font-size: 16pt;
+	color: #939393;
+	font-weight: normal;
+	margin-bottom: 0;
+}
+
+#pageHeading {
+	margin-top: 10px;
+	font-size: 24pt;
+}
